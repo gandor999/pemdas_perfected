@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 // Author: Geodor Ruales
 class Solution {
     public static void main(String[] args) {
